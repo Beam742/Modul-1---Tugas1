@@ -39,7 +39,7 @@ public class Tugas1 {
                 admin();
                 break;
             case 3:
-                System.out.println("adioss");
+                System.out.println("TERIMAKASIH DAN JUMPA LAGI");
                 break;
             default:
                 System.out.println("Input not valid!!");
